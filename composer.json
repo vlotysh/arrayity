@@ -1,0 +1,19 @@
+{
+    "name": "vlad/arrayity",
+    "description": "Easy inteface for array",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vlad Lotysh",
+            "email": "Lotysh.vm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arrayity": "src/"
+        }
+    }
+}
